@@ -14,7 +14,7 @@
 ### Participate
 - Submit questions: https://forms.gle/7Z3ALL5rdoqoX76FA
 - RSVP via Meetup to get the Zoom link: https://www.meetup.com/Data-Community-DC/events/278159920/
-- Use the ics file (dig.ics) to add the event to your calendar
+- Use the ICS file ([dig.ics](dig.ics)) to add the event to your calendar
 
 ### Panelists
 - Aarti Bagul, Machine Learning Engineer at Snorkel AI
