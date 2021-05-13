@@ -1,4 +1,4 @@
-# Data in Government (DIG) panel discussion
+# Data in Government (DiG) panel discussion
 
 ## Info
 - Date: June 19, 2021 (2021-06-19)
