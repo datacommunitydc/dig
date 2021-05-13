@@ -5,6 +5,11 @@
 - Venue: Zoom plus YouTube livestream
 
 
+## Participate
+- Submit questions: https://forms.gle/7Z3ALL5rdoqoX76FA
+- Register to get Zoom link:
+
+
 ## Panelists
 - Aarti Bagul, Machine Learning Engineer at Snorkel AI
 - Akanksha Sharma, Senior Advisor at U.S. Office of Personnel Management
