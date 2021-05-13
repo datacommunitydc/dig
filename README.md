@@ -3,7 +3,7 @@
 ![](panel.png)
 
 ### Info
-- Link: https://github.com/datacommunitydc/dig#info
+- Repo: https://github.com/datacommunitydc/dig#info
 - Date: June 19, 2021 (2021-06-19)
 - Venue: Zoom plus YouTube livestream
 - Time:
