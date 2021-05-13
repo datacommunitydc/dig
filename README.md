@@ -1,19 +1,20 @@
 ## Data in Government (DiG) panel discussion
-![](panel.png)
 
+![](panel.png)
 
 ### Info
 - Link: https://github.com/datacommunitydc/dig#info
 - Date: June 19, 2021 (2021-06-19)
 - Venue: Zoom plus YouTube livestream
 - Time:
-  - 10:00 - 12:00 Pacific Standard Time (-8)
-  - 13:00 - 15:00 Eastern Standard Time (-5)
-  - 19:00 - 21:00 Central European Time (+1)
+  - 10:00 - 12:00 Pacific Standard Time (UTC-08)
+  - 13:00 - 15:00 Eastern Standard Time (UTC-05)
+  - 19:00 - 21:00 Central European Time (UTC+01)
 
 ### Participate
 - Submit questions: https://forms.gle/7Z3ALL5rdoqoX76FA
-- Register to get Zoom link:
+- RSVP via Meetup to get the Zoom link: https://www.meetup.com/Data-Community-DC/events/278159920/
+- Use the ics file (dig.ics) to add the event to your calendar
 
 ### Panelists
 - Aarti Bagul, Machine Learning Engineer at Snorkel AI
