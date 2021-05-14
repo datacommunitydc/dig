@@ -2,6 +2,9 @@
 
 ![](panel.png)
 
+This event will feature diverse perspectives on the topic of "Data in
+Government" through lightning talks and a panel discussion.
+
 ### Info
 - Repo: https://github.com/datacommunitydc/dig#info
 - Date: June 19, 2021 (2021-06-19)
