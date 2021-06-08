@@ -35,12 +35,12 @@ Nicole Janeway Bills and Neha Tiwari from Women Who Code DC (WWC DC) will co-mod
 
 Agenda:
 - 13:00 Kick-off
-- 13:05 Lighting Talk by Christina Ho
-- 13:15 Lighting Talk by Selina Carter
-- 13:25 Lighting Talk by Kimberly Kreiss
-- 13:35 Lighting Talk by Nadia Smith
-- 13:45 Lighting Talk by Aarti Bagul
-- 13:55 Lighting Talk by Akanksha Sharma*
+- 13:05 Lightning Talk by Christina Ho
+- 13:15 Lightning Talk by Selina Carter
+- 13:25 Lightning Talk by Kimberly Kreiss
+- 13:35 Lightning Talk by Nadia Smith
+- 13:45 Lightning Talk by Aarti Bagul
+- 13:55 Lightning Talk by Akanksha Sharma*
 - 14:05 Transition to Panel discussion
 - 14:10 Panel discussion
 - 14:58 Wrap-up
