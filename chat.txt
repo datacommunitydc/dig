@@ -1,0 +1,89 @@
+13:02:39 From Data Community DC to Everyone : Submit questions: https://forms.gle/7Z3ALL5rdoqoX76FA
+13:07:52 From Victoria Guido (She/Her) to Everyone : https://www.womenwhocode.com/dc
+13:08:01 From Victoria Guido (She/Her) to Everyone : "https://forms.gle/7Z3ALL5rdoqoX76FA
+
+https://twitter.com/WomenWhoCodeDC"
+13:09:09 From Data Community DC to Everyone : Submit questions: https://forms.gle/7Z3ALL5rdoqoX76FA
+13:09:20 From Victoria Guido (She/Her) to Everyone : https://www.meetup.com/Women-Who-Code-DC/
+13:09:26 From Data Community DC to Everyone : Repo with slides: https://github.com/datacommunitydc/dig#info
+13:09:41 From Victoria Guido (She/Her) to Everyone : Request to join our Slack: http://bit.ly/wwcdcslack
+13:22:35 From Data Community DC to Everyone : Congratulations Selina!
+13:23:37 From Data Community DC to Everyone : https://twitter.com/selina_carter_
+13:25:19 From Data Community DC to Everyone : Submit questions: https://forms.gle/7Z3ALL5rdoqoX76FA
+13:28:22 From christina.ho to Everyone : I love this chart!
+13:31:49 From Data Community DC to Everyone : Awesome!
+13:34:48 From Data Community DC to Everyone : Live tweeting Selina's Art: https://twitter.com/marskar/status/1406303626432233476?s=20
+13:35:49 From Data Community DC to Everyone : Live tweeting Selina's app demo: https://twitter.com/marskar/status/1406304098220232707?s=20
+13:44:07 From Data Community DC to Everyone : Tweet about Selina's sankey diagram: https://twitter.com/marskar/status/1406306597475868674?s=20
+13:44:24 From Data Community DC to Everyone : Submit questions: https://forms.gle/7Z3ALL5rdoqoX76FA
+13:51:51 From Kim Kreiss to Everyone : @KimberlyKreiss
+13:51:55 From Kim Kreiss to Everyone : kimberlymkreiss@gmail.com
+13:51:58 From Kim Kreiss to Everyone : Thanks so much!
+14:09:14 From Data Community DC to Everyone : Tweet about Aarti's career trajectory: https://twitter.com/marskar/status/1406312934087725057?s=20
+14:14:27 From Data Community DC to Everyone : Tweet about Aarti's explanation of programmatic labeling / weak supervision: https://twitter.com/marskar/status/1406314256275066886?s=20
+14:18:26 From Data Community DC to Everyone : https://twitter.com/aarti_bagul
+14:18:36 From Data Community DC to Everyone : Submit questions: https://forms.gle/7Z3ALL5rdoqoX76FA
+14:18:44 From Nicole Janeway Bills to Everyone : Paper:  http://ai.stanford.edu/blog/weak-supervision/
+14:19:23 From Victoria Guido (She/Her) to Everyone : Submit questions for the panelists - https://forms.gle/7Z3ALL5rdoqoX76FA
+14:19:38 From Nicole Janeway Bills to Everyone : Q1:  do you have a data-related technique you think is under leveraged?
+14:21:11 From Nicole Janeway Bills to Everyone : Q2:  what’s an influential data-related paper you’ve encountered?
+14:21:48 From Nicole Janeway Bills to Everyone : Q3:  can you speak to the data collection and data quality processes at your workplace?
+14:23:32 From christina.ho to Everyone : Here is a paper my team recently wrote and published that might be of interest: https://www.elderresearch.com/wp-content/uploads/2021/04/Whitepaper_You-Want-the-Truth-Adapt-Training-Domain-to-Improve-QA-on-Technical-Text.pdf
+14:25:37 From Victoria Guido (She/Her) to Everyone : What was the name of that podcast?
+14:25:43 From Nicole Janeway Bills to Everyone : Data Framed
+14:26:02 From Victoria Guido (She/Her) to Everyone : Data Ops DC Podcast!
+14:27:10 From christina.ho to Everyone : https://www.elderresearch.com/resource/podcasts/
+14:27:22 From Neha Tiwari to Everyone : Q. How can government agencies provide data quickly to external data scientists? I've heard of multiple projects with federal agencies where the project failed because the government was unable to provide data.
+14:30:10 From Data Community DC to Everyone : Q: What career advice would you give to aspiring leaders in Government Data?
+14:34:48 From Data Community DC to Everyone : Q: What skills are most important for being successful in Government Data work?
+14:38:22 From Data Community DC to Everyone : The chat is now open for all participants
+14:39:45 From christina.ho to Everyone : You might be interested in this podcast I did for my friend about taking risks. https://youtu.be/hrRZPkBTNs8
+14:40:17 From Neha Tiwari to Everyone : Thanks!
+14:42:21 From Neha Tiwari to Everyone : Wonderful point!
+14:43:17 From Madhav to Everyone : For someone from a Finance Background, how do you apply Data Science?
+14:46:07 From Victoria Guido (She/Her) to Everyone : We tweeted it too!
+14:46:35 From Believers Jennifer Shanko to Everyone : Thanks so much for the career advice! As someone completely new getting into Data Science (career change, no tech background), what would you recommend would be the smartest route to take to get into the workforce as quickly as possible. And what are your thoughts on the no coding approach?
+14:46:53 From Aarti Bagul to Everyone : aarti@snorkel.ai
+14:47:09 From Aarti Bagul to Everyone : https://ai.stanford.edu/blog/weak-supervision/
+14:47:16 From Joy to Everyone : Are there any ML/AI certificates you believe would be helpful to a Data Science career?
+14:47:51 From Nicole Janeway Bills to Everyone : @Joy, I’m a fan of the Certified Data Management Professional exam (cdmp.info)
+14:48:23 From Nicole Janeway Bills to Everyone : It’s open book and the knowledge has been helpful in my career
+14:48:33 From Data Community DC to Everyone : CDMP: https://www.nicolejaneway.com/data-strategy/cdmp/
+14:48:43 From Nicole Janeway Bills to Everyone : ^ thanks Martin :)
+14:48:48 From Joy to Everyone : Thanks for the input Nicole
+14:48:50 From Selina Carter to Data Community DC(Direct Message) : Here's the artwork:
+14:49:50 From Madhav to Everyone : For someone from a Finance Background, how do you apply Data Science?
+14:50:04 From Data Community DC to Selina Carter(Direct Message) : I will share the tweet again
+14:50:24 From Data Community DC to Selina Carter(Direct Message) : Do you have a link to your art?
+14:50:46 From Data Community DC to Selina Carter(Direct Message) : Or anything else you want to plug?
+14:51:23 From Will Angel to Everyone : Data Science DC recently hosted a live recording of the Build a Career in Data Science Podcast. Great resource. https://podcast.bestbook.cool/
+14:53:08 From Madhav to Everyone : Thank you.
+14:53:11 From Amare Yirbecho to Everyone : How restart data analytics career in econ/stat/development after a long pause (7 years), any advice?
+14:53:17 From Selina Carter to Everyone : Here's the "data process" artwork:https://drive.google.com/file/d/1EQC_tHqMblVldFhNnkdPd94nLdQ845jC/view
+14:53:20 From Data Community DC to Selina Carter(Direct Message) : I will ad this to the event repo!
+14:54:02 From Victoria Guido (She/Her) to Everyone : I know FDIC has some open data tools as well - https://www.fdic.gov/resources/data-tools/
+14:54:25 From Selina Carter to Data Community DC(Direct Message) : Hi Martin, FYI, in the repo it says to me "Uploads are disabled. File uploads require push access to this repository."My GitHub name is selinacarter.
+14:55:29 From Data Community DC to Selina Carter(Direct Message) : https://github.com/datacommunitydc/dig/invitations
+14:55:44 From Selina Carter to Data Community DC(Direct Message) : Got it thank you
+14:55:44 From Guy to Everyone : What no programming tools do you think may be useful for new entrants to the field?
+14:56:10 From FitFin Fam to Everyone : thanks everyone!  Renee Wilder
+14:56:19 From Will Angel to Everyone : Thank you all for the great event!
+14:57:24 From Amare Yirbecho to Everyone : thanks all for the great presentation, discussion.
+14:57:29 From Believers Jennifer Shanko to Everyone : Thanks everyone! Very helpful :-)
+14:58:12 From Guy to Everyone : Awesome. Thank you to panelists and organizers.
+14:58:49 From Robert Kraig to Everyone : Thank you for the great talks and panel discussion. Lots of good advice here
+15:00:19 From Data Community DC to Everyone : https://www.datacommunitydc.org/
+15:00:45 From Selina Carter to Data Community DC(Direct Message) : IDB jobs: https://iadbcareers.referrals.selectminds.com/
+15:01:13 From Aarti Bagul to Everyone : aarti@snorkel.ai, https://www.linkedin.com/in/aartibagul/, https://twitter.com/aarti_bagul
+15:01:52 From Data Community DC to Everyone : IDB jobs: https://iadbcareers.referrals.selectminds.com/
+15:03:05 From christina.ho to Everyone : We are also hiring and you can find open positions here: https://www.elderresearch.com/careers/
+15:04:16 From christina.ho to Everyone : I have to go now.  Thank you all.
+15:04:59 From Kim Kreiss to Everyone : I have to hop off as well—please reach out if there are additional questions! kimberlymkreiss@gmail.com, Twitter: @KimberlyKreiss; or LinkedIn. Thanks!
+15:08:19 From Madhav to Everyone : Thank you.
+15:08:28 From Data Community DC to Everyone : https://rstats.ai/nyr/
+15:08:48 From Aarti Bagul to Everyone : Have to hop off as well. Thank you for having me!
+15:09:22 From Selina Carter to Everyone : https://rstats.ai/nyr/
+15:09:44 From Gurnimrat Sidhu to Everyone : Thank you everyone!
+15:09:53 From Liz to Everyone : Thank you all
+15:10:07 From Believers Jennifer Shanko to Everyone : Thanks again!
+15:10:20 From Iris Aikins-Afful to Everyone : Thanks so much!!
